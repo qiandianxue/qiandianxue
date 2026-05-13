@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Short video production icon">
+  <rect x="8" y="12" width="36" height="40" rx="6" fill="#0B1F3B" stroke="#00C2FF" stroke-width="2"/>
+  <path d="M24 24l12 8-12 8z" fill="#17E7B8"/>
+  <rect x="46" y="22" width="10" height="20" rx="2" fill="#00C2FF"/>
+</svg>

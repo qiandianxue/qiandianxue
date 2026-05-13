@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="App store icon">
+  <rect x="12" y="14" width="40" height="38" rx="7" fill="#0B1F3B" stroke="#00C2FF" stroke-width="2"/>
+  <path d="M22 28h20M22 35h20" stroke="#17E7B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25 14l4-6h6l4 6" stroke="#00C2FF" stroke-width="2" fill="none"/>
+</svg>

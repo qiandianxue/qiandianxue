@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Location icon">
+  <path d="M32 54s16-14.5 16-28a16 16 0 1 0-32 0c0 13.5 16 28 16 28z" fill="#0B1F3B" stroke="#00C2FF" stroke-width="2"/>
+  <circle cx="32" cy="26" r="6" fill="#17E7B8"/>
+</svg>
